@@ -1,0 +1,18 @@
+
+.card-style{
+    max-height: 100vh !important;
+}
+#error-not-found img{
+    width:80vh;
+    height:80vh;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+footer {
+    color: #d9e0fd;
+    background-color: #5d3dc6;
+    font-size: 16px;
+    text-align: center;
+}
+
